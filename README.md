@@ -8,7 +8,7 @@ It uses a split deployment model: frontend and backend are run separately.
 ## Project Structure
 
 ```
-react-flask-quiz-template/
+react-flask-quiz_demo/
 ├── frontend/           # React app (JS, JSX, CSS)
 │   ├── public/
 │   ├── src/
