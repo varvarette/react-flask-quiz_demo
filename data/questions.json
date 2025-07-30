@@ -1,0 +1,20 @@
+[
+  {
+    "question": "What is the capital of Switzerland?",
+    "choices": [
+      "Bern",
+      "Zurich",
+      "Geneva",
+      "Basel"
+    ]
+  },
+  {
+    "question": "In what year was the Swiss Constitution adopted?",
+    "choices": [
+      "1798",
+      "1848",
+      "1914",
+      "2000"
+    ]
+  }
+]
