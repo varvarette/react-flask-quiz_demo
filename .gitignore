@@ -1,0 +1,42 @@
+
+# === Node.js / React ===
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# === Python / Flask ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Virtual Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# === System / Editor Files ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+
+# === React Build Output (if you build frontend) ===
+frontend/build/
+
+# === Secrets (optional, if using .env files) ===
+.env
