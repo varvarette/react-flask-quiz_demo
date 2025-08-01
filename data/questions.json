@@ -1,20 +1,30 @@
 [
   {
-    "question": "What is the capital of Switzerland?",
-    "choices": [
-      "Bern",
-      "Zurich",
-      "Geneva",
-      "Basel"
-    ]
+    "question": "1. How many sides does a triangle have?",
+    "choices": ["3", "4", "it depends"]
   },
   {
-    "question": "In what year was the Swiss Constitution adopted?",
-    "choices": [
-      "1798",
-      "1848",
-      "1914",
-      "2000"
-    ]
+    "question": "2. Calculate \n 32+16",
+    "choices": ["0", "1", "48", "16"]
+  },
+  {
+    "question": "Question",
+    "choices": ["a", "b", "c", "d"]
+  },
+  {
+    "question": "Question",
+    "choices": ["a", "b", "c", "d"]
+  },
+  {
+    "question": "Question",
+    "choices": ["a", "b", "c", "d"]
+  },
+  {
+    "question": "Question",
+    "choices": ["a", "b", "c", "d"]
+  },
+  {
+    "question": "Question",
+    "choices": ["a", "b", "c", "d"]
   }
 ]
